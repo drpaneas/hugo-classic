@@ -24,7 +24,8 @@ output:
 .menu li { display: inline-block; }
 .article-meta, .menu a {
   text-decoration: none;
-  background: #D2D6EF;
+  background-image: url(https://d33wubrfki0l68.cloudfront.net/images/54cb40f6fa6a7b10cf1a3a74d89284921c9a27a3/texture.png);
+  background-color: #303030;
   color: #FFF;
   padding: 5px;
   border-radius: 5px;
@@ -43,7 +44,7 @@ footer a { text-decoration: none; }
 }
 
 a {
-  color: #613DC1;
+  color: #3371e3;
   text-decoration: none;
 }
 
@@ -58,7 +59,7 @@ header {
     height: 1.75rem;
     font-family: "Lucida Console" , "Liberation Mono";
     font-size: .875rem;
-    background: #613DC1;
+    background: #3371e3;
     border-bottom: 1px solid #000;
 }
 
